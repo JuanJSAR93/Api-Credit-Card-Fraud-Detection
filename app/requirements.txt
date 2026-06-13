@@ -1,0 +1,8 @@
+
+# Lista de librerías que Render debe instalar para correr la API.
+# Render lee este archivo automáticamente al desplegar el proyecto.
+langchain
+langchain-groq
+fastapi
+uvicorn
+pydantic
