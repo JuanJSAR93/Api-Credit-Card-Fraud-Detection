@@ -11,7 +11,7 @@ import uuid
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from app.llm import preguntar
+from llm import preguntar
 
 
 # ── La aplicación ─────────────────────────────────────────────────────
